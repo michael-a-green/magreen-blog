@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# About Me
-
 I'm currently becoming a Data Scientist.
 
 Previously I was (and still am) a chip design engineer with years experience developing all sorts of chips for all sorts of companies.
