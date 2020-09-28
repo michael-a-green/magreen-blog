@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "About Me . I’m currently becoming a Data Scientist. . Previously (and still am) a chip design engineer with years experience developing all sorts of chips for all sorts of companies. . With respect to chip design, I’ve worked a lot in design verification, but have experience in computer architecture, micro-architecture, circuit design, implementation, and design verification, and electronic design automation. . When it comes to data science, I’m interested in anything. I’d like to learn more about re-enforcement learning, generative models, and natural language processing. .",
           "url": "https://michael-a-green.github.io/magreen-blog/about/",
           "relUrl": "/about/",
           "date": ""
